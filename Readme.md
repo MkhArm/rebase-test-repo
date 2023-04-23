@@ -1,1 +1,1 @@
-Test Java project with git rebase
+Creating a Git conflict
