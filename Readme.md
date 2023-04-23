@@ -1,1 +1,1 @@
-Creating a Git conflict
+Creating a Git conflict 2
